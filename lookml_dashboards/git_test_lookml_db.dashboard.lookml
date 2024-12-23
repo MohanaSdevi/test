@@ -19,7 +19,7 @@
     col: 0
     width: 8
     height: 6
-  - title: Changed Title 5
+  - title: Changed Title 6
     name: tile 2
     model: git_setup_test
     explore: mydata2
