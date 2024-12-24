@@ -1,1 +1,1 @@
-
+include: "/models/*.lkml"
