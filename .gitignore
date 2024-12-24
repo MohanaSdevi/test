@@ -1,2 +1,4 @@
 manifest.lkml
 *.model.lkml
+git_setup_test_model.model.lkml
+.gitignore
