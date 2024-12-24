@@ -1,2 +1,2 @@
 manifest.lkml
-git_setup_test.model.lkml
+*.model.lkml
