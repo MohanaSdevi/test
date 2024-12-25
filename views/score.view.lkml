@@ -5,5 +5,7 @@ view: score {
   dimension: subject {
   }
 
-  measure: score {}
+  measure: score {
+    type: sum
+  }
 }
