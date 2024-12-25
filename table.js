@@ -126,7 +126,7 @@ eval("\n\nif (false) {} else {\n  module.exports = __webpack_require__(/*! ./cjs
   \***************************/
 /***/ ((__unused_webpack_module, exports, __webpack_require__) => {
 
-eval("\n\"use client\";\nObject.defineProperty(exports, \"__esModule\", ({ value: true }));\nexports.App = App;\nconst jsx_runtime_1 = __webpack_require__(/*! react/jsx-runtime */ \"./node_modules/react/jsx-runtime.js\");\nconst react_1 = __webpack_require__(/*! react */ \"./node_modules/react/index.js\");\nconst hello_1 = __webpack_require__(/*! ./hello */ \"./src/table/hello.tsx\");\nfunction App(_data, _config, _queryResponse, _details) {\n    const [configData, setConfigData] = (0, react_1.useState)(_config);\n    return ((0, jsx_runtime_1.jsxs)(react_1.StrictMode, { children: [(0, jsx_runtime_1.jsx)(hello_1.Hello, {}), (0, jsx_runtime_1.jsx)(\"p\", { children: JSON.stringify(configData) })] }));\n}\n\n\n//# sourceURL=webpack:///./src/table/app.tsx?");
+eval("\n\"use client\";\nObject.defineProperty(exports, \"__esModule\", ({ value: true }));\nexports.App = App;\nconst jsx_runtime_1 = __webpack_require__(/*! react/jsx-runtime */ \"./node_modules/react/jsx-runtime.js\");\nconst react_1 = __webpack_require__(/*! react */ \"./node_modules/react/index.js\");\nconst hello_1 = __webpack_require__(/*! ./hello */ \"./src/table/hello.tsx\");\nfunction App(_data, _config, _queryResponse, _details) {\n    return ((0, jsx_runtime_1.jsx)(react_1.StrictMode, { children: (0, jsx_runtime_1.jsx)(hello_1.Hello, {}) }));\n}\n\n\n//# sourceURL=webpack:///./src/table/app.tsx?");
 
 /***/ }),
 
