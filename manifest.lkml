@@ -11,3 +11,9 @@ visualization: {
   label: "Karthee Local"
   file: "hello_world_react.js"
 }
+
+visualization: {
+  id: "pixelperfect"
+  label: "Pixel Perfect Table"
+  file: "table.js"
+}
