@@ -15,5 +15,6 @@ visualization: {
 visualization: {
   id: "pixelperfect"
   label: "Pixel Perfect Table"
-  file: "table.js"
+
+  url: "https://localhost:8443/table.js"
 }
