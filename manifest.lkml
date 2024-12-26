@@ -18,3 +18,10 @@ visualization: {
 
   url: "https://localhost:8443/table.js"
 }
+
+visualization: {
+  id: "pixelperfectheader"
+  label: "Pixel Perfect Header"
+
+  url: "https://localhost:8443/header.js"
+}
