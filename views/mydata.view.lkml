@@ -11,9 +11,9 @@ view: mydata {
                 config ARRAY<STRUCT<name STRING, value STRING, type STRING>>,
                 score ARRAY<STRUCT<term STRING, subject STRING, score FLOAT64>>>>[
                   (1, 'Karthee', [('dept', 'CS', 'STRING'), ('fees', '10.0', 'FLOAT') ],
-                  [('1', 'CS', 75.0), ('1', 'Math', 100.0) ]),
+                  [('1', 'CS', 75.0), ('1', 'Math', 100.0), ('2', 'CS', 65.0), ('1', 'Math', 5.0), ('3', 'CS', 85.0), ('3', 'Math', 95.0) ]),
                   (2, 'Sudha', [('dept', 'IT', 'STRING'), ('fees', '5.0', 'FLOAT'), ('hostel_fee', '50.0', 'FLOAT') ],
-                  [('1', 'CS', 95.0), ('1', 'Math', 95.0) ])])
+                  [('1', 'CS', 95.0), ('2', 'Math', 95.0), ('2', 'CS', 100.0), ('1', 'Math', 100.0) ])])
       ;;
   }
 
