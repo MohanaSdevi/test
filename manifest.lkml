@@ -25,3 +25,9 @@ visualization: {
 
   url: "https://localhost:8443/header.js"
 }
+
+visualization: {
+  id: "subtotal"
+  label: "SubTotal"
+  url: "https://looker-custom-viz-a.lookercdn.com/master/subtotal.js"
+}
