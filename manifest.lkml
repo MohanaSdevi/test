@@ -23,7 +23,14 @@ visualization: {
   id: "pixelperfectheader"
   label: "Pixel Perfect Header"
 
-  url: "https://localhost:8443/header.js"
+  url: "https://localhost:8080/headers.js"
+}
+
+visualization: {
+  id: "pixelperfectCoverPage"
+  label: "Pixel Perfect Cover Page"
+
+  url: "https://localhost:8080/coverPage.js"
 }
 
 visualization: {
