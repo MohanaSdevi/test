@@ -27,6 +27,13 @@ visualization: {
 }
 
 visualization: {
+  id: "pixelperfectcoverpage"
+  label: "Pixel Perfect Cover Page"
+
+  file: "coverPage.js"
+}
+
+visualization: {
   id: "subtotal"
   label: "SubTotal"
   url: "https://looker-custom-viz-a.lookercdn.com/master/subtotal.js"
