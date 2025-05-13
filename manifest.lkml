@@ -26,12 +26,12 @@ visualization: {
   url: "https://localhost:8080/headers.js"
 }
 
-# visualization: {
-#   id: "pixelperfectCoverPage"
-#   label: "Pixel Perfect Cover Page"
+visualization: {
+  id: "pixelperfectCoverPageLocal"
+  label: "Pixel Perfect Cover Page Local"
 
-#   url: "https://localhost:8080/coverPage.js"
-# }
+  url: "https://localhost:8080/coverPage.js"
+}
 
 visualization: {
   id: "pixelperfectcoverpage"
